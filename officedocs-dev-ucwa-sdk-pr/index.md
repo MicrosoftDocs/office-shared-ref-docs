@@ -1,1 +1,3 @@
-# Welcome to office-ucwa-sdk-ref-docs!
+---
+redirect_url: 'what-is-this-api'
+---
