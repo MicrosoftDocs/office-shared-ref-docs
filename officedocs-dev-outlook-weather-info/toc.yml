@@ -1,0 +1,25 @@
+- name: Outlook Weather Information XML Schema
+  href: outlook-weather-information-xml-schema.md
+  items:
+  - name: Schema map
+    href: schema-map-outlook-weather-information-schema.md
+  - name: Elements
+    href: elements-outlook-weather-information-schema.md
+    items:
+    - name: current element
+      href: current-element-weathertype-complextype-outlook-weather-information-schema.md
+    - name: forecast element
+      href: forecast-element-weathertype-complextype-outlook-weather-information-schema.md
+    - name: weather element
+      href: weather-element-weatherdata-element-outlook-weather-information-schema.md
+    - name: weatherdata element
+      href: weatherdata-element-outlook-weather-information-schema.md
+  - name: Types
+    href: types-outlook-weather-information-schema.md
+    items:
+    - name: currentType complexType
+      href: currenttype-complextype-outlook-weather-information-schema.md
+    - name: forecastType complexType
+      href: forecasttype-complextype-outlook-weather-information-schema.md
+    - name: weatherType complexType
+      href: weathertype-complextype-outlook-weather-information-schema.md
