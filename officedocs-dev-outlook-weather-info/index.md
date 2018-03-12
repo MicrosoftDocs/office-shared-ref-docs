@@ -1,1 +1,3 @@
-# Welcome to office-outlook-weather-info-docs!
+﻿---
+redirect_url: 'outlook-weather-information-xml-schema'
+---
