@@ -17,6 +17,22 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "office-outlook-weather-location-docs",
+      "build_source_folder": "officedocs-dev-outlook-weather-location",
+      "build_output_subfolder": "officedocs-dev-outlook-weather-location",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "office-ucwa-sdk-ref-docs",
       "build_source_folder": "officedocs-dev-ucwa-sdk-pr",
       "build_output_subfolder": "office-ucwa-sdk-ref-docs",
