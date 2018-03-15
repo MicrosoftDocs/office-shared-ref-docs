@@ -21,8 +21,11 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+                                                     "**/*.png",
+                                                     "**/*.jpg",
+                                                     "**/*.gif",
+                                                     "**/*.bmp",
+                                                     "**/*.jpeg"
         ],
         "exclude": [
           "**/obj/**",
@@ -36,7 +39,15 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/office/developer/outlook/weather/information/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+                                         "extendBreadcrumb":  true,
+                                         "ROBOTS":  "INDEX,FOLLOW",
+                                         "is_archived":  false,
+                                         "uhfHeaderId":  "MSDocsHeader-MSEdge",
+                                         "author":  "o365devx",
+                                         "ms.author":  "o365devx",
+                                         "ms.prod":  "office",
+                                         "ms.service":  "outlook",
+                                         "ms.technology":  "outlook"
     },
     "fileMetadata": {},
     "template": [],
