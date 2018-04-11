@@ -1,4 +1,4 @@
-﻿---
+---
 title: Outlook Weather Location XML Schema
 TOCTitle: Outlook Weather Location XML Schema
 ms:assetid: 8bb17e80-3be5-228e-ddb4-fcda03b60ba6
