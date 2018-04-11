@@ -1,4 +1,4 @@
-﻿---
+---
 title: Types (Outlook Weather Location Schema)
 TOCTitle: Types
 ms:assetid: 35911941-3d5d-a00c-f6bf-eb0e93e00083
