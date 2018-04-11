@@ -1,4 +1,4 @@
-﻿---
+---
 title: weatherType complexType (Outlook Weather Location Schema)
 TOCTitle: weatherType complexType
 ms:assetid: f8054fd9-85ba-fcf6-c96d-a54095d5238c
