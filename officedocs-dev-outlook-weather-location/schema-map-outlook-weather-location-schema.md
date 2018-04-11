@@ -1,4 +1,4 @@
-﻿---
+---
 title: Schema map (Outlook Weather Location Schema)
 TOCTitle: Schema map
 ms:assetid: 1a5195ae-7905-477a-7818-9eb3bff64af0
