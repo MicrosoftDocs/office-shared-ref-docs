@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elements (Outlook Weather Location Schema)
 TOCTitle: Elements
 ms:assetid: 60418ec6-b714-b3bd-f350-b67e8af12815
