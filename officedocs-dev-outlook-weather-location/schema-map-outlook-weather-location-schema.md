@@ -4,6 +4,7 @@ TOCTitle: Schema map
 ms:assetid: 1a5195ae-7905-477a-7818-9eb3bff64af0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ227768(v=office.15)
 ms:contentKeyID: 48463652
+ms.topic: Archived
 ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
