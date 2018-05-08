@@ -1,9 +1,10 @@
-﻿---
+---
 title: weatherType complexType (Outlook Weather Location Schema)
 TOCTitle: weatherType complexType
 ms:assetid: f8054fd9-85ba-fcf6-c96d-a54095d5238c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ231497(v=office.15)
 ms:contentKeyID: 48491372
+ms.topic: Archived
 ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:

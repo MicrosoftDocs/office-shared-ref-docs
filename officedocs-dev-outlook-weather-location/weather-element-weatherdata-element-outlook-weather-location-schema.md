@@ -1,9 +1,10 @@
-﻿---
+---
 title: weather element (weatherdata element) (Outlook Weather Location Schema)
 TOCTitle: weather element
 ms:assetid: 1127956a-37aa-c39e-60b4-343dcc4ead82
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ227504(v=office.15)
 ms:contentKeyID: 48461610
+ms.topic: Archived
 ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
