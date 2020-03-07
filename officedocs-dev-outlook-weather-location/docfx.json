@@ -44,16 +44,17 @@
 
                                         ],
                   "globalMetadata":  {
-                                         "breadcrumb_path":  "/office/developer/outlook/weather/location/breadcrumb/toc.json",
+                                         "breadcrumb_path":  "/previous-versions/OfficeWeatherInfoSchema/breadcrumb/toc.json",
                                          "extendBreadcrumb":  true,
-                                         "ROBOTS":  "INDEX,FOLLOW",
+                                         "ROBOTS":  "NOINDEX,NOFOLLOW",
                                          "is_archived":  false,
                                          "uhfHeaderId":  "MSDocsHeader-MSEdge",
                                          "author":  "o365devx",
                                          "ms.author":  "o365devx",
                                          "ms.prod":  "office",
                                          "ms.service":  "outlook",
-                                         "ms.technology":  "outlook"
+                                         "ms.technology":  "outlook",
+                                         "ms.topic":  "archived"
                                      },
                   "fileMetadata":  {
 
