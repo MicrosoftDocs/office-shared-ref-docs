@@ -45,6 +45,7 @@
                                          "uhfHeaderId":  "MSDocsHeader-MSEdge",
                                          "author":  "o365devx",
                                          "ms.author":  "o365devx",
+                                         "ms.topic":  true,
                                          "ms.prod":  "office",
                                          "ms.service":  "outlook",
                                          "ms.technology":  "outlook"
