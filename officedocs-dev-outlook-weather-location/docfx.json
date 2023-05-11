@@ -1,4 +1,71 @@
 {
+    "build":  {
+                  "content":  [
+                                  {
+                                      "files":  [
+                                                    "**/*.md",
+                                                    "**/*.yml",
+                                                    "toc.yml"
+                                                ],
+                                      "exclude":  [
+                                                      "**/obj/**",
+                                                      "**/includes/**",
+                                                      "_themes/**",
+                                                      "_themes.pdf/**",
+                                                      "README.md",
+                                                      "LICENSE",
+                                                      "LICENSE-CODE",
+                                                      "ThirdPartyNotices",
+                                                      "**/toc.md"
+                                                  ]
+                                  }
+                              ],
+                  "resource":  [
+                                   {
+                                       "files":  [
+                                                     "**/*.png",
+                                                     "**/*.jpg",
+                                                     "**/*.gif",
+                                                     "**/*.bmp",
+                                                     "**/*.jpeg"
+                                                 ],
+                                       "exclude":  [
+                                                       "**/obj/**",
+                                                       "**/includes/**",
+                                                       "_themes/**",
+                                                       "_themes.pdf/**"
+                                                   ]
+                                   }
+                               ],
+                  "overwrite":  [
+
+                                ],
+                  "externalReference":  [
+
+                                        ],
+                  "globalMetadata":  {
+                           "feedback_system": "Standard",
+                                         "breadcrumb_path":  "/office/developer/outlook/weather/location/breadcrumb/toc.json",
+                                         "extendBreadcrumb":  true,
+                                         "ROBOTS":  "INDEX,FOLLOW",
+                                         "is_archived":  false,
+                                         "uhfHeaderId":  "MSDocsHeader-MSEdge",
+                                         "author":  "o365devx",
+                                         "ms.author":  "o365devx",
+                                         "ms.prod":  "office",
+                                         "ms.service":  "outlook",
+                                         "ms.technology":  "outlook"
+                                     },
+                  "fileMetadata":  {
+
+                                   },
+                  "template":  [
+
+                               ],
+                  "dest":  "officedocs-dev-outlook-weather-location",
+                  "markdownEngineName":  "markdig"
+              }
+}
   "build": {
     "content": [
       {

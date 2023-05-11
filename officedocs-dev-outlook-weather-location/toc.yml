@@ -1,0 +1,17 @@
+- name: Outlook Weather Location XML Schema
+  href: outlook-weather-location-xml-schema.md
+  items:
+  - name: Schema map
+    href: schema-map-outlook-weather-location-schema.md
+  - name: Elements
+    href: elements-outlook-weather-location-schema.md
+    items:
+    - name: weather element
+      href: weather-element-weatherdata-element-outlook-weather-location-schema.md
+    - name: weatherdata element
+      href: weatherdata-element-outlook-weather-location-schema.md
+  - name: Types
+    href: types-outlook-weather-location-schema.md
+    items:
+    - name: weatherType complexType
+      href: weathertype-complextype-outlook-weather-location-schema.md

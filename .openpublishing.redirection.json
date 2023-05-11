@@ -1,0 +1,19 @@
+{
+  "redirections": [
+    {
+      "source_path": "officedocs-dev-outlook-weather-info/index.md",
+      "redirect_url": "outlook-weather-information-xml-schema",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "officedocs-dev-outlook-weather-location/index.md",
+      "redirect_url": "outlook-weather-location-xml-schema",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "officedocs-dev-ucwa-sdk-pr/index.md",
+      "redirect_url": "what-is-this-api",
+      "redirect_document_id": false
+    }
+  ]
+}
