@@ -35,9 +35,9 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "feedback_system": "Standard",
-      "breadcrumb_path": "/office-ucwa-sdk/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+    "feedback_system": "Standard",
+    "breadcrumb_path": "/office-ucwa-sdk/breadcrumb/toc.json",
+    "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
